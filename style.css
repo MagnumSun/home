@@ -1,0 +1,13 @@
+body {
+    background: url("./img/bg.gif");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+div.container {
+    position: absolute;
+    top: 30%;
+    left: 23.3%;
+    width: 53.5%;
+    height: auto;
+}

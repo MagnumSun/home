@@ -14,11 +14,12 @@ body {
 }
 
 #copy-div{
+  background-color: black;
   font-size: .9vw;
   color: white;
   margin-left: 0vw;
   margin-top: 35%;
-  width: 33%;
+  width: 8%;
   height: auto;
 }
 

@@ -5,12 +5,12 @@ body {
 }
 
 #my-div{
-  font-size: 1vw;
+  font-size: .9vw;
   color: white;
   margin-left: 35vw;
-  margin-top: 6vw;
+  margin-top: 5.6vw;
   width: 30%;
-  height: 40%;
+  height: auto;
 }
 
 div.container {

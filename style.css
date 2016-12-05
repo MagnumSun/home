@@ -7,11 +7,10 @@ body {
 #my-div{
   font-size: 1vw;
   color: white;
-  margin-left: 35%;
-  margin-top: 6%;
+  margin-left: 35vw;
+  margin-top: 6vw;
   width: 30%;
   height: 40%;
-
 }
 
 div.container {

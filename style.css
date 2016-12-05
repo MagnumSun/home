@@ -1,5 +1,5 @@
 body {
-    background: url("./img/bg.gif");
+    background: url("./img/bg1.gif");
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -7,15 +7,15 @@ body {
 #my-div{
   font-size: .9vw;
   color: white;
-  margin-left: 35vw;
-  margin-top: 5.6vw;
-  width: 30%;
+  margin-left: 34vw;
+  margin-top: 5.8vw;
+  width: 33%;
   height: auto;
 }
 
 div.container {
     position: absolute;
-    top: 30%;
+    top: 40%;
     left: 23.3%;
     width: 53.5%;
     height: auto;

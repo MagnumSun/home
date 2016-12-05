@@ -4,6 +4,16 @@ body {
     background-repeat: no-repeat;
 }
 
+#my-div{
+  font-size: 1vw;
+  color: white;
+  margin-left: 35%;
+  margin-top: 6%;
+  width: 30%;
+  height: 40%;
+
+}
+
 div.container {
     position: absolute;
     top: 30%;

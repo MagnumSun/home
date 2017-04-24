@@ -11,3 +11,14 @@ div.container {
     width: 53.5%;
     height: auto;
 }
+
+.footer {
+  color: white;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: .5rem;
+  background-color: #000000;
+  text-align: left;
+}

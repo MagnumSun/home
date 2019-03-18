@@ -15,7 +15,7 @@ div.container {
 
 .footer {
   color: white;
-  border-top: solid white 20px;
+  border-top: solid white 1px;
   position: fixed;
   right: 0;
   bottom: 0;

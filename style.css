@@ -24,8 +24,3 @@ div.container {
   background-color: #000000;
   text-align: left;
 }
-
-#box{
-    zoom: 7;
-    -moz-transform: scale(7);
-}

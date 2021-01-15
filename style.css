@@ -1,8 +1,7 @@
 .stage {
-  width: 20vw;
-  height: 20vw;
+  position: absolute;
   top: 55%;
-  right: 35%;
+  right: 47.5%;
 }
 
 body {

@@ -1,6 +1,7 @@
 .stage {
-  position: center;
-  top: 55%;
+  position: absolute;
+  top: 50%;
+  right: 49%;
 }
 
 body {

@@ -1,6 +1,6 @@
 .stage {
   position: absolute;
-  top: 37%;
+  top: 42%;
   right: 44.5%;
 }
 
@@ -13,7 +13,7 @@ body {
 
 div.container {
     position: absolute;
-    top:37%;
+    top:40%;
     left: 23.3%;
     width: 53.5%;
     height: auto;
